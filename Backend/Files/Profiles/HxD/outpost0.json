@@ -1,0 +1,17 @@
+{
+  "_id": "",
+  "created": "2021-10-24T01:07:27.968Z",
+  "updated": "2021-10-24T07:38:03.916Z",
+  "rvn": 8,
+  "wipeNumber": 0,
+  "accountId": "HxD",
+  "profileId": "outpost0",
+  "version": "NocturnoProfileVersion",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 8
+}

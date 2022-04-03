@@ -1,0 +1,17 @@
+{
+  "_id": "",
+  "created": "2021-10-24T00:35:38.704Z",
+  "updated": "2021-10-24T06:39:00.965Z",
+  "rvn": 6,
+  "wipeNumber": 0,
+  "accountId": "AllyJax",
+  "profileId": "outpost0",
+  "version": "NocturnoProfileVersion",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 6
+}

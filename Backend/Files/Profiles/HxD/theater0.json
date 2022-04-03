@@ -1,0 +1,99 @@
+{
+  "_id": "",
+  "created": "2021-10-24T01:07:27.845Z",
+  "updated": "2021-10-24T07:38:03.807Z",
+  "rvn": 8,
+  "wipeNumber": 0,
+  "accountId": "HxD",
+  "profileId": "theater0",
+  "version": "NocturnoProfileVersion",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "player_loadout": {
+        "bPlayerIsNew": false,
+        "pinnedSchematicInstances": [],
+        "primaryQuickBarRecord": {
+          "slots": [
+            {
+              "items": []
+            },
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        "secondaryQuickBarRecord": {
+          "slots": [
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": [
+                ""
+              ]
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        "zonesCompleted": 0
+      },
+      "theater_unique_id": "",
+      "past_lifetime_zones_completed": 0,
+      "last_event_instance_key": "",
+      "last_zones_completed": 0,
+      "inventory_limit_bonus": 0
+    }
+  },
+  "profileLockExpiration": "0001-01-01T00:00:00.000Z",
+  "commandRevision": 8
+}

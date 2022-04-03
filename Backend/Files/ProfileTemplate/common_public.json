@@ -1,0 +1,18 @@
+{
+    "created": "",
+    "updated": "",
+    "rvn": 0,
+    "wipeNumber": 0,
+    "accountId": "",
+    "profileId": "common_public",
+    "version": "NocturnoProfileVersion",
+    "items": {},
+    "stats": {
+      "attributes": {
+        "banner_color": "DefaultColor8",
+        "homebase_name": "",
+        "banner_icon": "BRSeason02Salt"
+      }
+    },
+    "commandRevision": 0
+}

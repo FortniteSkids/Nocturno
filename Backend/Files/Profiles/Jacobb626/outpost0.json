@@ -1,0 +1,17 @@
+{
+  "_id": "",
+  "created": "2021-10-23T20:01:30.408Z",
+  "updated": "2021-10-24T08:06:13.783Z",
+  "rvn": 30,
+  "wipeNumber": 0,
+  "accountId": "Jacobb626",
+  "profileId": "outpost0",
+  "version": "NocturnoProfileVersion",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 30
+}
